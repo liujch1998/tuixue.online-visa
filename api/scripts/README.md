@@ -24,3 +24,8 @@ This software currently supports AIS-based visa appointment systems (Canada, Mex
     * For Canada, use `en-ca`
     * For Mexico, use `en-mx`
 
+## TODOs
+
+0. Reuse session by using the `/ais/refresh` API
+0. Set up failure rate detection and abnormality notification
+
